@@ -6,19 +6,19 @@
  <li>Password : "SamyK12345@m"</li>
 
 <h2>Login</h2>
-<img src="/screenshots/1.PNG">
+<img src="/screenshots/1.png">
 <h2>Register</h2>
-<img src="/screenshots/2.PNG">
+<img src="/screenshots/2.png">
 <h2>Login</h2>
-<img src="/screenshots/3.PNG">
+<img src="/screenshots/3.png">
 <h2>Register</h2>
-<img src="/screenshots/4.PNG">
+<img src="/screenshots/4.png">
   <h2>Login</h2>
-<img src="/screenshots/5.PNG">
+<img src="/screenshots/5.png">
 <h2>Register</h2>
-<img src="/screenshots/6.PNG">
+<img src="/screenshots/6.png">
 <h2>Register</h2>
-<img src="/screenshots/7.PNG">
+<img src="/screenshots/7.png">
   
 <h2>Specifications:</h2>
  
